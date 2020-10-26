@@ -21,10 +21,9 @@
 Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - [Express](https://expressjs.com/pt-br/) - Framework para NodeJS
-- [Handlebars](https://handlebarsjs.com/) - Template Engine
-- [LeafletJS](https://leafletjs.com/) - Mapas interativos amigáveis para Mobile
-- [NodeJS](https://nodejs.org/en/) -  Chrome's V8 JavaScript engine
-- [SQLite](https://www.sqlite.org/index.html) - Database
+- [ReactJS](https://reactjs.org/) - Template Engine
+- [Mapbox](https://www.mapbox.com/) - Mapas interativos amigáveis para Mobile
+- [PostgreSQL](https://www.postgresql.org/) - Database
 
 ## 💻 Projeto
 
@@ -43,15 +42,10 @@ Você pode visualizar o layout do projeto através dos links abaixo:
 
 Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
-## 🔖 Roadmap
-
-Você pode verificar o roteiro do curso na ordem do Frontend para Backend abaixo:
-- [Notion](https://www.notion.so/NLW-Discovery-03-b325f596b16843f2b64dbeb15390d8d9)
-
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
-<p align="center">Desenvolvido com paixão por Célio Pontes</p>
+<p align="center">Desenvolvido com paixão por Célio Pontes seguindo as aulas do Diego Fernandes</p>
